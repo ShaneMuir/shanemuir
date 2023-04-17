@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+UPDATE:- I've removed all my project from the heroku platform since when I created them it was a free service but now they are charging for some services that my apps rely on so I have decided to remove them all. Still feel free to follow the READMEs and run my apps locally.
+
 <!--
 **ShaneMuir/shanemuir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
